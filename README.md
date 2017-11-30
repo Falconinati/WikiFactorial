@@ -11,7 +11,15 @@ pip install beautifulsoup4
 ```
 ## How to Use
 From the command line, enter:  
-`python WikiFactorial.py`
+```
+python WikiFactorial.py
+```
+When prompted, enter the value for which you want the factorial
+```
+Insert a number to get the factorial: 3
+```
+Output:  
+`6`
   
   
 ## License
